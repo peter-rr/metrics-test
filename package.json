@@ -1,0 +1,22 @@
+{
+  "name": "@peter-rr/metrics-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-rr/metrics-test.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/peter-rr/metrics-test/issues"
+  },
+  "homepage": "https://github.com/peter-rr/metrics-test#readme"
+}
